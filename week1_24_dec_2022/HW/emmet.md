@@ -1,0 +1,4 @@
+# Emmet (https://emmet.io/) is a plugin for text editors that help developers in writing HTML, CSS boilerplate code. This plugin is enabled in VSCode by default and helps in the process of development.
+# When CSS-like expressions are written, a corresponding snippet of code is added to the HTML file accordingly.
+# It is greatly helpful in writing CSS code. (For eg: When p10 is typed in a CSS file in VSCode, padding: 10px is automatically added to the file, greatly reducing the time taken in the development)
+# Custom Emmet abbreviations are possible too. Creating a snippets.json with the custom expansion of the tags will help to create custom boiletplate code.
