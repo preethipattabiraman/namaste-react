@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css"/>
+    <title>Namaste React</title>
+</head>
+<body>
+    <h3>Something from Emmet :) </h3>
+    <!-- Created using Emmet Abbreviation : ul#list>li.item$*3 -->
+    <ul id="list">
+        <li class="item1">Item1</li>
+        <li class="item2">Item2</li>
+        <li class="item3">Item3</li>
+    </ul>
+    
+    <h1>Namaste, React!</h1>
+    <div id = "root1"></div>
+    <div id = "root2"></div>
+    <div id = "root3"></div>
+    <div id = "root4"></div>
+    <!-- The script way of adding a h1 -->
+    <script>
+        const root1 = document.getElementById("root1");
+        const h2 = document.createElement("h2");
+        h2.innerHTML = "Namaste, everyone from JS!";
+        root1.appendChild(h2);
+    </script>
+    <script src="App.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+{
+  "name": "parcel-react",
+  "version": "1.0.0",
+  "description": "React using NPM/Parcel",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preethipattabiraman/namaste-react.git"
+  },
+  "author": "ppattabiraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preethipattabiraman/namaste-react/issues"
+  },
+  "homepage": "https://github.com/preethipattabiraman/namaste-react#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  }
+}
