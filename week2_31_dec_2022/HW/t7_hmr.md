@@ -1,0 +1,4 @@
+1. Hot reloading means that when there are some changes done to the files, any bundler would automatically build the changes and reload the whole page. 
+2. Sometimes, it may replace just a part of the page which is termed hot module replacement. This is primarily used for JS/CSS files. This dynamically updates the modules in the run time without the need to reload the entire page every single time or to rebuild the entire application after every single change. 
+3. This HMR can also be made to a full-fledged hot reload using the module.hot API
+4. HMR is enabled only in development; not in production.

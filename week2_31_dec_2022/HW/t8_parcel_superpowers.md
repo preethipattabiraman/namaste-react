@@ -1,0 +1,14 @@
+### Superpowers of Parcel
+1. HMR : This allows the code to be rebuilt and redeployed dynamically, automatically without the need for the developers to intervene with this. 
+2. File Watching : Parcel implements a fast C++ code that helps in HMR. It connects with the file watching functionality of each OS and keeps a tab on all the files in the file root. Based on the changes, Parcel implements the changes and HMR.
+3. Bundling : It is the process by which Parcel generates a single JS file with all the necessary dependencies so that this one file can be executed on the production to get all the features developed.
+4. Minifying : It is the process by which the unwanted lines of rename variables to shorter names, codes, spaces, comments (ie lines that do not do much in production) is removed. This significantly reduces the size of the JS file and helps in faster loading of the files.
+5. Clean Code : It helps in cleaning the JS files just like above.
+6. Production : Parcel automatically takes care of the production build; it bundles and optimizes when parcel build command is used. It optimizes size, caching and makes the code ready for deployment.
+7. Scope hoisting : Parcel concatenates the modules into a single scope - instead of using them as a separate function. This makes the process of minification easier and run time performace is upgraded because now the dynamic lookups become static.
+8. Super fast build algorithm
+9. Caching while development builds : With the usage of .parcel-cache folder, Parcel caches/stores the information regarding the project in this .parcel-cache folder so that when there is a rebuilding, Parcel checks this folder instead of re-building and re-analyzing the entire project.
+10. Compression : Generally, Parcel compresses and bundles the files for production. Many servers compress data on the fly, but it is not ideal since it may take some time or not all clients may have the bandwidth to handle this type of request. This is not enabled by default, so the configuration happens in a file : .parcelrc
+11. Polyfills : Parcel inherently uses Babel which is a transpiler. Babel ensures that the project runs on all the browsers, including older ones. Babel transpiles the code accordingly to make it run on all browsers.
+12. Enable https on development : Enabling https on development environment for cases like cookies, proxies, it is easy with Parcel. It automatically generates a certificate with which https can be enabled.
+13. Code splitting : Parcel ensures that the dynamic dependencies if any can be made as static dependencies and splits the code accordingly to reduce the time of execution.

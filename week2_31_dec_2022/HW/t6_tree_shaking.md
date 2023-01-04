@@ -1,0 +1,2 @@
+1. Tree-Shaking means dead code elimination.
+2. It tries to find the links between files statically using the import and export keywords and eliminates unused code (to identify if modules are imported/exported).
