@@ -1,0 +1,57 @@
+body {
+    font-family: "Courier New", monospace; 
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#content {
+    flex: 1;
+}
+
+#headingContent {
+    box-sizing: border-box;
+    width: 100%;
+    display: table;
+    table-layout: fixed;
+    justify-content: center;
+    align-items: baseline;
+    padding: 1em;
+    margin-bottom: 2em;
+    background-color: mediumturquoise;
+    font-size: 15px;
+}
+
+#headingContent p {
+    display: table-cell;
+}
+
+#title {
+    font-weight: bolder;
+}
+
+#time {
+    font-size: small;
+    text-align: right;
+}
+
+#root1 {
+    color: blue;
+    border: 3px greenyellow solid;
+    margin: auto;
+    padding: 10px;
+}
+
+#root2 {
+    color: magenta;
+    border: 3px mediumseagreen solid;
+    border-radius: 1px;
+    margin: auto;
+    padding: 10px;
+}
+
+#footerContent {
+    text-align: center;
+    font-size: smaller;
+    min-height: 50px;
+}
