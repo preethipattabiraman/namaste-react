@@ -1,0 +1,1 @@
+1. JSX is just a syntactic sugar to define elements in a better way in React.
