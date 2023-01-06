@@ -1,0 +1,253 @@
+:root {
+    --primary-color: #afeeee;
+    --header-color: #6B7280;
+    --section-color: #F3F4F6;
+    --linkedin-color : #0072b1;
+    --secondary-color: #00bfa6;
+}
+
+body {
+    font-family: 'Roboto Mono', monospace;
+    margin: 0;
+}
+
+hr {
+    margin: 1.5rem 0rem;
+}
+
+/** Containers **/
+
+.clib-container {
+    padding: 0rem 1rem;
+}
+
+.clib-container-center {
+    max-width: 600px;
+    margin: auto
+}
+
+.clib-container-inline {
+    float: left;
+}
+
+
+/** Links **/
+
+.clib-link {
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+}
+
+.clib-link .fa {
+    color: var(--linkedin-color);
+    font-size: 25px;
+}
+
+.clib-link-primary {
+    background-color: var(--primary-color);
+    color: white;
+    border-radius: 0.5rem;
+}
+
+.clib-link-secondary {
+    color: var(--primary-color);
+    border-radius: 0.5rem;
+    border: 1px solid var(--primary-color);
+}
+
+/** Read about BEM naming convention**/
+
+/** Lists **/
+
+.clib-list-non-bullet {
+    list-style: none;
+}
+
+.clib-list-inline>li {
+    display: inline;
+    padding: 0rem 0.5rem;
+}
+
+/** Navigation **/
+
+.clib-nav {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    padding: 0.5rem;
+    border-bottom-left-radius: 1rem;
+}
+
+.clib-nav .clib-nav-logo {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.clib-nav ul {
+    text-align: right;
+}
+
+.clib-nav .clib-nav-link {
+    color: black;
+    text-decoration: none;
+}
+
+.clib-nav .clib-nav-link-active {
+    font-weight: bold;
+    background-color: var(--secondary-color);
+}
+
+/** Header **/
+
+.clib-header {
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.clib-header-image {
+    display: block;
+    margin: auto;
+    max-width: 350px;
+}
+
+.clib-header-heading {
+    font-size: 2rem;
+    color: var(--header-color);
+    word-wrap: normal;
+}
+
+/** Sections **/
+
+.clib-section {
+    padding: 1.5rem;
+}
+
+.clib-section h1 {
+    text-align: center;
+}
+
+.clib-section p {
+    text-align: center;
+}
+
+.clib-section-ow {
+    background-color: var(--section-color);
+}
+
+.clib-section .clib-link {
+    text-transform: uppercase;
+    color: var(--primary-color);
+    letter-spacing: 0.5rem;
+    padding: 0rem;
+}
+.clib-section .clib-link:hover {
+    text-decoration: underline;
+}
+
+/** Article **/
+.clib-article {
+    padding: 2rem;
+    background-color: var(--section-color);
+    text-align: center;
+}
+
+.clib-article .clib-article-heading {
+    font-size: 1.5rem;
+    letter-spacing: 1rem;
+    text-transform: uppercase;
+}
+
+.clib-article .clib-article-image {
+    width: 300px;
+}
+
+.clib-article .clib-article-content {
+    font-size: 1.2rem;
+    text-align: justify;
+    padding: 0rem 6rem;
+}
+
+.clib-article .clib-article-highlight {
+    background-color: var(--header-color);
+    color: white;
+}
+
+/** Footer **/
+.clib-footer {
+    background-color: var(--primary-color);
+    padding: 0.5rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+}
+
+.clib-footer .clib-footer-header {
+    font-weight: bold;
+    font-size: large;
+}
+
+.clib-footer .clib-footer-link {
+    color: white;
+}
+
+/** Align Center **/
+.clib-center {
+    text-align: center !important;
+}
+
+.clib-bold {
+    font-weight: bold;
+}
+
+/** Card Layout **/
+.clib-cards {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-auto-rows: auto;
+    gap: 0.5rem;
+}
+
+.clib-card {
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: fit-content;
+    height: fit-content;
+    text-align: center;
+    padding: 1rem;
+    margin: auto;
+}
+
+.clib-card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.clib-card .clib-container-card {
+    padding: 1rem;
+}
+
+.clib-code-container {
+    margin-left: 10rem;
+}
+
+.clib-code-block {
+    color: var(--primary-color);
+    font-size: 1rem;
+    padding: 16px;
+    border: 1px solid var(--primary-color);
+    text-align: left;
+    margin: 0;
+    width: fit-content;
+}
+
+.clib-code {
+    display: block;
+    white-space: pre-wrap;
+    overflow-wrap: break-word;
+    font-family: monospace, monospace;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+}
+
+.clib-align-left {
+    text-align: left;
+}
