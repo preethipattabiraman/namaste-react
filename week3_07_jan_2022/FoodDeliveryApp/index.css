@@ -1,0 +1,38 @@
+:root
+{
+    --primary-color : #006FBF;
+    --text-color: black;
+
+}
+
+.nr-fdd-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px var(--primary-color) solid;
+}
+
+.nr-fdd-logo, .nr-fdd-cart {
+    width: 100px;
+}
+
+.nr-fdd-navbar-list {
+    list-style-type: none;
+    margin : 10px;
+    display: flex;
+    padding-left: 750px;
+}
+
+.nr-fdd-navbar-list > li {
+    padding: 10px;
+}
+
+.nr-fdd-link-active {
+    color: var(--primary-color);
+    background-color: burlywood;
+}
+
+.nr-fdd-link:hover {
+    border: 1px solid var(--primary-color);
+    font-size: large;
+}
