@@ -1,0 +1,28 @@
+:root {
+    --primary-color: #BF00A0;
+}
+
+body {
+    height: 100%;
+    width: 100%;
+}
+
+/* Header */
+.nrlib-nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.nrlib-nav .nrlib-img-logo {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 70px;
+}
+
+.nrlib-nav .nrlib-user-icon {
+    display: flex;
+    width: 70px;
+    text-align: right;
+}
