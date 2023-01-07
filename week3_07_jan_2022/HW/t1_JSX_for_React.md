@@ -1,0 +1,3 @@
+### Is JSX mandatory for React?
+
+#### Ans : Nope. It is not. JSX is like a syntactic sugar for writing React Elements and components. Internally, Babel (or the transpiler) changes the JSX code and creates the React.createElement code. If needed, the React application can be built using React.createElement function. JSX eases this process and makes development faster. Also, it ensures that data is escaped so that there is no chance for XSS Scripting attacks.

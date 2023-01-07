@@ -1,0 +1,2 @@
+1. Creation/Loading of components based on the necessary details from the backend is called config driven UI
+2. Basically the interfaces / components are created as generic as possible and based on the configurations like location, gender or climate the results are modified and the UI changes.
