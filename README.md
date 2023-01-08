@@ -7,3 +7,7 @@ Namaste-React Assignments and HWs
 
 ## Week 2
 3. 31-Dec-2022: [Click here](week2_31_dec_2022)
+4. 01-Jan-2023: [Click here](week2_01_jan_2023)
+
+## Week 3
+5. 07-Jan-2023: [Click here](week3_07_jan_2022)
