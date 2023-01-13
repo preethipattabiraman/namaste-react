@@ -1,0 +1,29 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/preethipattabiraman/namaste-react.git"
+  },
+  "author": "ppattabiraman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/preethipattabiraman/namaste-react/issues"
+  },
+  "homepage": "https://github.com/preethipattabiraman/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}

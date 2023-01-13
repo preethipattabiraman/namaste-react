@@ -1,0 +1,1848 @@
+{
+    "sections": {
+      "SECTION_SEARCH_RESULT": [
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 65235,
+            "name": "Hot Chips",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/3/65223/d36d8bc0df8b6e287a5d9137e371c24c_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/3/65223/d36d8bc0df8b6e287a5d9137e371c24c_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "3.3",
+              "rating_text": "3.3",
+              "rating_subtitle": "Average",
+              "rating_color": "CDD614",
+              "votes": "8,349",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "2.7",
+                  "reviewCount": "186",
+                  "reviewTextSmall": "186 Reviews",
+                  "subtext": "186 Dining Reviews",
+                  "color": "#1C1C1C",
+                  "ratingV2": "2.7",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "yellow",
+                    "tint": "600"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "3.9",
+                  "reviewCount": "8,163",
+                  "reviewTextSmall": "8,163 Reviews",
+                  "subtext": "8,163 Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "3.9",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹350 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Chromepet, Chennai",
+              "address": "13, GST Road, Near MIT Bridge, Chromepet, Chennai",
+              "localityUrl": "chennai/chromepet-restaurants"
+            },
+            "timing": {
+              "text": "Opens in 17 minutes",
+              "color": "#e5521f"
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/south-indian/",
+                "name": "South Indian"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/north-indian/",
+                "name": "North Indian"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/street-food/",
+                "name": "Street Food"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/chinese/",
+                "name": "Chinese"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/beverages/",
+                "name": "Beverages"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "18 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/hot-chips-chromepet/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/hot-chips-chromepet/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "1.1 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"65235\",\"element_type\":\"listing\",\"rank\":1}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "4250+ orders placed from here recently"
+            },
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                "aspect_ratio": 2.66666666667
+              },
+              "text": "Follows all Max Safety measures to ensure your food is safe"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 70085,
+            "name": "Murugan Idli Shop",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/1/65381/c2c01dabe8d4c96c5b2bbdba6330d90f_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/1/65381/c2c01dabe8d4c96c5b2bbdba6330d90f_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "3.9",
+              "rating_text": "3.9",
+              "rating_subtitle": "Good",
+              "rating_color": "9ACD32",
+              "votes": "7,906",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "3.8",
+                  "reviewCount": "264",
+                  "reviewTextSmall": "264 Reviews",
+                  "subtext": "264 Dining Reviews",
+                  "color": "#1C1C1C",
+                  "ratingV2": "3.8",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "4.0",
+                  "reviewCount": "7,642",
+                  "reviewTextSmall": "7,642 Reviews",
+                  "subtext": "7,642 Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "4.0",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹200 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Nanganallur, Chennai",
+              "address": "4th Main Road, Near Axis Bank, Nanganallur, Chennai",
+              "localityUrl": "chennai/nanganallur-restaurants"
+            },
+            "timing": {
+              "text": "",
+              "color": ""
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/south-indian/",
+                "name": "South Indian"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/desserts/",
+                "name": "Desserts"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/beverages/",
+                "name": "Beverages"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "39 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/murugan-idli-shop-nanganallur/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/murugan-idli-shop-nanganallur/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "6.4 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"70085\",\"element_type\":\"listing\",\"rank\":2}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "1825+ orders placed from here recently"
+            },
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                "aspect_ratio": 2.66666666667
+              },
+              "text": "Follows all Max Safety measures to ensure your food is safe"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 70417,
+            "name": "Subway",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/0/65540/f3201356314a59cee230a9bc1637e150_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/0/65540/f3201356314a59cee230a9bc1637e150_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "3.9",
+              "rating_text": "3.9",
+              "rating_subtitle": "Good",
+              "rating_color": "9ACD32",
+              "votes": "10.4K",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "3.7",
+                  "reviewCount": "108",
+                  "reviewTextSmall": "108 Reviews",
+                  "subtext": "108 Dining Reviews",
+                  "color": "#1C1C1C",
+                  "ratingV2": "3.7",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "4.1",
+                  "reviewCount": "10.3K",
+                  "reviewTextSmall": "10.3K Reviews",
+                  "subtext": "10.3K Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "4.1",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹250 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Madipakkam, Chennai",
+              "address": "47, Jamals Palazzo, Main Road, Madipakkam, Chennai",
+              "localityUrl": "chennai/madipakkam-restaurants"
+            },
+            "timing": {
+              "text": "Opens at 8am",
+              "color": "#ab000d"
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/fast-food/",
+                "name": "Fast Food"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMzA0XCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/sandwich/",
+                "name": "Sandwich"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "40 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/subway-madipakkam/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/subway-madipakkam/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "5.1 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"70417\",\"element_type\":\"listing\",\"rank\":3}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "3100+ orders placed from here recently"
+            },
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                "aspect_ratio": 2.66666666667
+              },
+              "text": "Follows all Max Safety measures to ensure your food is safe"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 20250812,
+            "name": "Chai Waale",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/5/18706895/e7c7c234c5950ab487d0503a21b6f781_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/5/18706895/e7c7c234c5950ab487d0503a21b6f781_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "3.8",
+              "rating_text": "3.8",
+              "rating_subtitle": "Good",
+              "rating_color": "9ACD32",
+              "votes": "276",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "3.6",
+                  "reviewCount": "0",
+                  "reviewTextSmall": "0 Reviews",
+                  "subtext": "0 Dining Reviews",
+                  "color": "#1C1C1C",
+                  "ratingV2": "3.6",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "4.0",
+                  "reviewCount": "276",
+                  "reviewTextSmall": "276 Reviews",
+                  "subtext": "276 Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "4.0",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹250 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Selaiyur, Chennai",
+              "address": "Shop 4/243, Near Velachery Main Road, Selaiyur, Chennai",
+              "localityUrl": "chennai/selaiyur-restaurants"
+            },
+            "timing": {
+              "text": "",
+              "color": ""
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTYzXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/tea/",
+                "name": "Tea"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/beverages/",
+                "name": "Beverages"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/fast-food/",
+                "name": "Fast Food"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/street-food/",
+                "name": "Street Food"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "32 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/chai-waale-selaiyur/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/chai-waale-selaiyur/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "3.2 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20250812\",\"element_type\":\"listing\",\"rank\":4}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "1300+ orders placed from here recently"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 20140165,
+            "name": "Chai Kings",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/6/18415226/c8016dba291c8a8f32aad6173da7e1d3_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/6/18415226/c8016dba291c8a8f32aad6173da7e1d3_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "3.9",
+              "rating_text": "3.9",
+              "rating_subtitle": "Good",
+              "rating_color": "9ACD32",
+              "votes": "479",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "",
+                  "reviewCount": "0",
+                  "reviewTextSmall": "0 Reviews",
+                  "subtext": "Does not offer Dining",
+                  "color": "",
+                  "ratingV2": "-",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "3.9",
+                  "reviewCount": "479",
+                  "reviewTextSmall": "479 Reviews",
+                  "subtext": "479 Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "3.9",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹350 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Chromepet, Chennai",
+              "address": "122, Grand Southern Trunk Road, Opposite Adyar Ananda Bhavan, Lakshmi Nagar, Chromepet, Chennai",
+              "localityUrl": "chennai/chromepet-restaurants"
+            },
+            "timing": {
+              "text": "",
+              "color": ""
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTYzXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/tea/",
+                "name": "Tea"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/beverages/",
+                "name": "Beverages"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA1MVwiXX0iXQ%3D%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/momos/",
+                "name": "Momos"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNDBcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/fast-food/",
+                "name": "Fast Food"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/street-food/",
+                "name": "Street Food"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/desserts/",
+                "name": "Desserts"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "20 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/chai-kings-1-chromepet/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/chai-kings-1-chromepet/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "838 m",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20140165\",\"element_type\":\"listing\",\"rank\":5}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "1850+ orders placed from here recently"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 18546382,
+            "name": "Hotel Vasantham",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/4/67524/8bf230b3f9d82af4988838ad31d9b208_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/4/67524/8bf230b3f9d82af4988838ad31d9b208_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "4.0",
+              "rating_text": "4.0",
+              "rating_subtitle": "Very Good",
+              "rating_color": "5BA829",
+              "votes": "2,361",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "3.6",
+                  "reviewCount": "24",
+                  "reviewTextSmall": "24 Reviews",
+                  "subtext": "24 Dining Reviews",
+                  "color": "#1C1C1C",
+                  "ratingV2": "3.6",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "4.3",
+                  "reviewCount": "2,337",
+                  "reviewTextSmall": "2,337 Reviews",
+                  "subtext": "2,337 Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "4.3",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹100 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Nanganallur, Chennai",
+              "address": "8, 48th Street, Nanganallur, Chennai",
+              "localityUrl": "chennai/nanganallur-restaurants"
+            },
+            "timing": {
+              "text": "",
+              "color": ""
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/south-indian/",
+                "name": "South Indian"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "35 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/hotel-vasantham-nanganallur/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/hotel-vasantham-nanganallur/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "6.5 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18546382\",\"element_type\":\"listing\",\"rank\":6}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "1775+ orders placed from here recently"
+            },
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/695598f38d29d0e5d3f8ffe57cfdb94c1613145422.png",
+                "aspect_ratio": 2.0625
+              },
+              "text": "Restaurant partner follows WHO protocol"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 18731939,
+            "name": "Shree Saai Bhavan",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/9/18731939/48474ab5a3e1397630addfd2000a6142_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/9/18731939/48474ab5a3e1397630addfd2000a6142_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "4.0",
+              "rating_text": "4.0",
+              "rating_subtitle": "Very Good",
+              "rating_color": "5BA829",
+              "votes": "13.7K",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "3.9",
+                  "reviewCount": "115",
+                  "reviewTextSmall": "115 Reviews",
+                  "subtext": "115 Dining Reviews",
+                  "color": "#1C1C1C",
+                  "ratingV2": "3.9",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "4.1",
+                  "reviewCount": "13.6K",
+                  "reviewTextSmall": "13.6K Reviews",
+                  "subtext": "13.6K Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "4.1",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹300 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Tambaram, Chennai",
+              "address": "7A, GST Road, West Tambaram, Tambaram, Chennai",
+              "localityUrl": "chennai/tambaram-restaurants"
+            },
+            "timing": {
+              "text": "",
+              "color": ""
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/south-indian/",
+                "name": "South Indian"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/north-indian/",
+                "name": "North Indian"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/chinese/",
+                "name": "Chinese"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTI4XCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/sichuan/",
+                "name": "Sichuan"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "24 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/shree-saai-bhavan-tambaram/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/shree-saai-bhavan-tambaram/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "3.5 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18731939\",\"element_type\":\"listing\",\"rank\":7}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "2550+ orders placed from here recently"
+            },
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                "aspect_ratio": 2.66666666667
+              },
+              "text": "Follows all Max Safety measures to ensure your food is safe"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 19571183,
+            "name": "Tirumal Idly Shop",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/3/19571183/e43938c658ca72590a5d2798ec78d71f_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/3/19571183/e43938c658ca72590a5d2798ec78d71f_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "3.8",
+              "rating_text": "3.8",
+              "rating_subtitle": "Good",
+              "rating_color": "9ACD32",
+              "votes": "2,382",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "",
+                  "reviewCount": "2",
+                  "reviewTextSmall": "2 Reviews",
+                  "subtext": "Does not offer Dining",
+                  "color": "",
+                  "ratingV2": "-",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "3.8",
+                  "reviewCount": "2,380",
+                  "reviewTextSmall": "2,380 Reviews",
+                  "subtext": "2,380 Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "3.8",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹250 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Tambaram, Chennai",
+              "address": "112, Gandhi Road, Tambaram, Chennai",
+              "localityUrl": "chennai/tambaram-restaurants"
+            },
+            "timing": {
+              "text": "Temporarily closed for dining, will be back soon!",
+              "color": ""
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/south-indian/",
+                "name": "South Indian"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/chinese/",
+                "name": "Chinese"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "27 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/tirumal-idly-shop-tambaram/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/tirumal-idly-shop-tambaram/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "3.3 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19571183\",\"element_type\":\"listing\",\"rank\":8}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "1975+ orders placed from here recently"
+            },
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                "aspect_ratio": 2.66666666667
+              },
+              "text": "Follows all Max Safety measures to ensure your food is safe"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 19426602,
+            "name": "The Belgian Waffle Cafe",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/2/19426602/5d4c5f5634951a292fedc0bc6634dee2_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/2/19426602/5d4c5f5634951a292fedc0bc6634dee2_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "4.1",
+              "rating_text": "4.1",
+              "rating_subtitle": "Very Good",
+              "rating_color": "5BA829",
+              "votes": "2,202",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "",
+                  "reviewCount": "3",
+                  "reviewTextSmall": "3 Reviews",
+                  "subtext": "Does not offer Dining",
+                  "color": "",
+                  "ratingV2": "-",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "4.1",
+                  "reviewCount": "2,199",
+                  "reviewTextSmall": "2,199 Reviews",
+                  "subtext": "2,199 Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "4.1",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹350 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Tambaram, Chennai",
+              "address": "Door 10, Plot 131, Sivashamugam Pillai Street, Tambaram, Chennai",
+              "localityUrl": "chennai/tambaram-restaurants"
+            },
+            "timing": {
+              "text": "Opens at 8am",
+              "color": "#ab000d"
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2N1wiXX0iXQ%3D%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/waffle/",
+                "name": "Waffle"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/desserts/",
+                "name": "Desserts"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/beverages/",
+                "name": "Beverages"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "36 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/the-belgian-waffle-cafe-tambaram/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/the-belgian-waffle-cafe-tambaram/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "4.1 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"19426602\",\"element_type\":\"listing\",\"rank\":9}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "1275+ orders placed from here recently"
+            },
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/695598f38d29d0e5d3f8ffe57cfdb94c1613145422.png",
+                "aspect_ratio": 2.0625
+              },
+              "text": "Restaurant partner follows WHO protocol"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 20007371,
+            "name": "Shri Ramanaas",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/1/20007371/b8481e9df890a4e8887ece19e3f09566_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/1/20007371/b8481e9df890a4e8887ece19e3f09566_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "4.1",
+              "rating_text": "4.1",
+              "rating_subtitle": "Very Good",
+              "rating_color": "5BA829",
+              "votes": "2,149",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "",
+                  "reviewCount": "3",
+                  "reviewTextSmall": "3 Reviews",
+                  "subtext": "Does not offer Dining",
+                  "color": "",
+                  "ratingV2": "-",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "grey",
+                    "tint": "500"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "4.1",
+                  "reviewCount": "2,146",
+                  "reviewTextSmall": "2,146 Reviews",
+                  "subtext": "2,146 Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "4.1",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹250 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Medavakkam, Chennai",
+              "address": "4/858, Perumbakkam Main Road, Medavakkam, Chennai",
+              "localityUrl": "chennai/medavakkam-restaurants"
+            },
+            "timing": {
+              "text": "",
+              "color": ""
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/south-indian/",
+                "name": "South Indian"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiNTBcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/north-indian/",
+                "name": "North Indian"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "42 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/shri-ramanaas-medavakkam/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/shri-ramanaas-medavakkam/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "7.1 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"20007371\",\"element_type\":\"listing\",\"rank\":10}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "5375+ orders placed from here recently"
+            },
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                "aspect_ratio": 2.66666666667
+              },
+              "text": "Follows all Max Safety measures to ensure your food is safe"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 70117,
+            "name": "Sree Gupta Bhavan",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/5/18258195/f058a81bff191e47c673a9621aa805da_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/chains/5/18258195/f058a81bff191e47c673a9621aa805da_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "3.5",
+              "rating_text": "3.5",
+              "rating_subtitle": "Good",
+              "rating_color": "9ACD32",
+              "votes": "1,086",
+              "subtext": "REVIEW",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "2.7",
+                  "reviewCount": "61",
+                  "reviewTextSmall": "61 Reviews",
+                  "subtext": "61 Dining Reviews",
+                  "color": "#1C1C1C",
+                  "ratingV2": "2.7",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "yellow",
+                    "tint": "600"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "4.2",
+                  "reviewCount": "1,025",
+                  "reviewTextSmall": "1,025 Reviews",
+                  "subtext": "1,025 Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "4.2",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "700"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹300 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Selaiyur, Chennai",
+              "address": "205, Camp Road, Near Main Road, Selaiyur, Chennai",
+              "localityUrl": "chennai/selaiyur-restaurants"
+            },
+            "timing": {
+              "text": "",
+              "color": ""
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiOTBcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/street-food/",
+                "name": "Street Food"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTAwXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/desserts/",
+                "name": "Desserts"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTA2NlwiXX0iXQ%3D%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/shake/",
+                "name": "Shake"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "27 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/sree-gupta-bhavan-selaiyur/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/sree-gupta-bhavan-selaiyur/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "3.2 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"70117\",\"element_type\":\"listing\",\"rank\":11}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "775+ orders placed from here recently"
+            },
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/695598f38d29d0e5d3f8ffe57cfdb94c1613145422.png",
+                "aspect_ratio": 2.0625
+              },
+              "text": "Restaurant partner follows WHO protocol"
+            }
+          ]
+        },
+        {
+          "type": "restaurant",
+          "info": {
+            "resId": 18475381,
+            "name": "Sri Ganesh Bhavan",
+            "image": {
+              "url": "https://b.zmtcdn.com/data/pictures/1/18475381/659e225bc161c83bfb9e90bab99cf730_o2_featured_v2.jpg"
+            },
+            "o2FeaturedImage": {
+              "url": "https://b.zmtcdn.com/data/pictures/1/18475381/659e225bc161c83bfb9e90bab99cf730_o2_featured_v2.jpg"
+            },
+            "rating": {
+              "has_fake_reviews": 0,
+              "aggregate_rating": "4.0",
+              "rating_text": "4.0",
+              "rating_subtitle": "Very Good",
+              "rating_color": "5BA829",
+              "votes": "12.5K",
+              "subtext": "REVIEWS",
+              "is_new": false
+            },
+            "ratingNew": {
+              "newlyOpenedObj": null,
+              "suspiciousReviewObj": null,
+              "ratings": {
+                "DINING": {
+                  "rating_type": "DINING",
+                  "rating": "3.9",
+                  "reviewCount": "111",
+                  "reviewTextSmall": "111 Reviews",
+                  "subtext": "111 Dining Reviews",
+                  "color": "#1C1C1C",
+                  "ratingV2": "3.9",
+                  "subtitle": "DINING",
+                  "sideSubTitle": "Dining Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  }
+                },
+                "DELIVERY": {
+                  "rating_type": "DELIVERY",
+                  "rating": "4.0",
+                  "reviewCount": "12.4K",
+                  "reviewTextSmall": "12.4K Reviews",
+                  "subtext": "12.4K Delivery Reviews",
+                  "color": "#E23744",
+                  "ratingV2": "4.0",
+                  "subtitle": "DELIVERY",
+                  "sideSubTitle": "Delivery Reviews",
+                  "bgColorV2": {
+                    "type": "green",
+                    "tint": "600"
+                  },
+                  "newOnDelivery": false
+                }
+              }
+            },
+            "cft": {
+              "text": "₹300 for two"
+            },
+            "cfo": {
+              "text": "₹100 for one"
+            },
+            "locality": {
+              "name": "Selaiyur, Chennai",
+              "address": "1, Vallalar Street, Camp Road Junction, Selaiyur, Chennai",
+              "localityUrl": "chennai/selaiyur-restaurants"
+            },
+            "timing": {
+              "text": "",
+              "color": ""
+            },
+            "cuisine": [
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiODVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/south-indian/",
+                "name": "South Indian"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjVcIl19Il0%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/chinese/",
+                "name": "Chinese"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMTI4XCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/sichuan/",
+                "name": "Sichuan"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiN1wiXX0iXQ%3D%3D",
+                "url": "https://www.zomato.com/chennai/restaurants/biryani/",
+                "name": "Biryani"
+              },
+              {
+                "deeplink": "zomato://search?deeplink_filters=WyJ7XCJjb250ZXh0XCI6XCJhbGxcIn0iLCJ7XCJjdWlzaW5lX2lkXCI6W1wiMjcwXCJdfSJd",
+                "url": "https://www.zomato.com/chennai/restaurants/beverages/",
+                "name": "Beverages"
+              }
+            ],
+            "should_ban_ugc": false,
+            "costText": {
+              "text": "₹100 for one"
+            }
+          },
+          "order": {
+            "deliveryTime": "28 min",
+            "isServiceable": true,
+            "hasOnlineOrdering": true,
+            "actionInfo": {
+              "text": "Order Now",
+              "clickUrl": "/chennai/sri-ganesh-bhavan-selaiyur/order"
+            }
+          },
+          "gold": [],
+          "takeaway": [],
+          "cardAction": {
+            "text": "",
+            "clickUrl": "/chennai/sri-ganesh-bhavan-selaiyur/order",
+            "clickActionDeeplink": ""
+          },
+          "distance": "3.3 km",
+          "isPromoted": false,
+          "promotedText": "",
+          "trackingData": [
+            {
+              "table_name": "zsearch_events_log",
+              "payload": "{\"search_id\":\"4fa129cd-ef8d-4ea3-a961-fb067cc8b156\",\"location_type\":\"delivery_cell\",\"location_id\":\"4202526602145300480\",\"page_type\":\"delivery\",\"app_type\":\"new_web_consumer\",\"section\":\"restaurants\",\"entity_type\":\"restaurant\",\"entity_id\":\"18475381\",\"element_type\":\"listing\",\"rank\":12}",
+              "event_names": {
+                "tap": "{\"action\":\"tap\"}",
+                "impression": "{\"action\":\"impression\"}"
+              }
+            }
+          ],
+          "allCTA": [],
+          "promoOffer": "",
+          "checkBulkOffers": true,
+          "bulkOffers": [
+            {
+              "text": "50% OFF up to 100",
+              "color": {
+                "tint": "500",
+                "type": "blue"
+              }
+            }
+          ],
+          "isDisabled": false,
+          "bottomContainers": [
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/4bf016f32f05d26242cea342f30d47a31595763089.png"
+              },
+              "text": "1900+ orders placed from here recently"
+            },
+            {
+              "image": {
+                "url": "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png",
+                "aspect_ratio": 2.66666666667
+              },
+              "text": "Follows all Max Safety measures to ensure your food is safe"
+            }
+          ]
+        }
+      ]
+    }
+}
