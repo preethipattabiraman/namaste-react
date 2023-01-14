@@ -1,0 +1,3 @@
+1. Named exports - happen when a specific expression or function is exported from a file and that needs to be imported and used in that file. This needs to be done with curly braces {}
+2. Default export - The default way of exporting a component from a file. By default, components are exported with the default keyword and are imported using the component name.
+3. * is used when there are named exports in a component, but no default export. In such cases, the components are exported as an object and imported as such and accessed in the same way.

@@ -1,0 +1,2 @@
+1. The web pages are developed using config driver UI. Meaning the UI can be controlled and configured based on the parameters from the backend.
+2. config.js is a place where all the configurations for the project are stored. They can be stored as a JSON file and can be imported to the project. They can be accessed as normal object variables.

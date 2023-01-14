@@ -10,6 +10,7 @@
     align-items: center;
     justify-content: space-between;
     border: 1px var(--primary-color) solid;
+    margin-bottom: 10px;
 }
 
 .nr-fdd-logo-parent {
@@ -22,6 +23,21 @@
 
 .nr-fdd-title {
     font-weight: bolder;
+}
+
+.nr-fdd-search {
+    align-items: center;
+    text-align: center;
+}
+
+.nr-fdd-search-text {
+    font-size: medium;
+    margin: 10px;
+}
+
+.nr-fdd-search-btn {
+    margin: 10px;
+    font-weight: bold;
 }
 
 .nr-fdd-navbar-list {
