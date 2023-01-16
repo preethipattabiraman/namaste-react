@@ -64,9 +64,6 @@
     color: var(--primary-color);
 }
 
-.nr-fdd-body {
-}
-
 .nr-fdd-card-list {
     display: flex;
     flex-wrap: wrap;

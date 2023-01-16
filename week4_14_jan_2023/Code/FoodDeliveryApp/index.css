@@ -70,10 +70,10 @@
     justify-content: center;
 }
 
-.nr-fdd-card {
+.nr-fdd-card, .nr-fdd-shimmer-card {
     margin: 10px;
     background: #ddd;
-    width: 100%;
+    width: 200px;
     position: relative;
     padding: 20px;
     box-sizing: border-box;
@@ -84,7 +84,7 @@
     box-shadow: 2px 2px 2px 1px var(--primary-color);
 }
 
-.nr-fdd-restaurant-image {
+.nr-fdd-restaurant-image, .nr-fdd-shimmer-restaurant-image {
     width: 100%;
     height: 40px;
     background: #bbb;
