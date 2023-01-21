@@ -7,27 +7,29 @@ console.log(APP_CONFIG);
 
 const filterRestaurantData = (search, restaurant) => {
     return restaurant.filter((r) => {
-        return r.info?.name.toLowerCase().includes(search.toLowerCase());
+        return r.data?.name.toLowerCase().includes(search.toLowerCase());
     });
-}
-
-async function getRestaurants() {
-    const response = await fetch(APP_CONFIG.url, {
-        method: 'GET',
-        mode: 'cors'
-      });
-    const data = await response.json();
-    console.log(data);
-    return data;
 }
 
 export default function Body() {
     const [search, setSearch] = useState('');
     const [allRestaurants, setAllRestaurants] = useState([]);
+    const [searchResults, setSearchResults] = useState([]);
+
+    async function getRestaurants() {
+        const response = await fetch(APP_CONFIG.url);
+        const data = await response.json();
+        console.log(data);
+        setAllRestaurants(data?.data?.cards[2]?.data?.data?.cards);
+        setSearchResults(data?.data?.cards[2]?.data?.data?.cards);
+    }
 
     useEffect( () => {
         getRestaurants();
     }, []);
+
+    //Early returns
+    if(!allRestaurants) return null;
 
     return allRestaurants.length === 0 ? (
         <Shimmer/>
@@ -41,9 +43,10 @@ export default function Body() {
                     type="text"/>
                 <button className="nr-fdd-search-btn" onClick={
                     () => {
-                        setAllRestaurants(allRestaurants);   
                         if(search.length != 0)             
-                            setAllRestaurants(filterRestaurantData(search, allRestaurants));
+                            setSearchResults(filterRestaurantData(search, allRestaurants));
+                        else 
+                            setSearchResults(allRestaurants);
                         }
                     }>
                     Search
@@ -52,7 +55,7 @@ export default function Body() {
             </div>
             <div className = "nr-fdd-card-list">
                 {
-                restaurant.map((r) => {
+                searchResults.map((r) => {
                     return (
                         <Restaurant {...r} key = {r?.data?.id} />
                     );
@@ -61,3 +64,4 @@ export default function Body() {
         </div>
     )
 }
+
