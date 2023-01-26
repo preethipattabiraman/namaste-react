@@ -1,0 +1,2 @@
+1. Nested Routes are created by passing children to the "children" key of the route.
+2. Nested Routes are children of children; the child elements are passed to the "children" key. It could be again an array of paths and elements and children, which may again be nested.

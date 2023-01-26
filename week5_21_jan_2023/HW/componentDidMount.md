@@ -1,0 +1,3 @@
+1. ComponentDidMount is called when the first render of the JSX is done. This method makes it perfect to call any kinds of *state changes*, *data fetches* or *asset fetches*.
+2. This is a good place to perform any *timer* operations. But, these should be turned off in componentDidUnmount().
+3. There are some cases that need the DOM initialisation to happen. For example, to understand the size of the window or the size of a div to display tooltip or any modals. Generally, all initialisations can be done with constructors. If any such kind is done here, render() needs to be called again. But for use case scenarios like *tooltips* or *modals*, this method comes in handy.
