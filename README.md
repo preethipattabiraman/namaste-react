@@ -14,5 +14,6 @@ Namaste-React Assignments and HWs
 6. 08-Jan-2023: [Click here](week3_08_jan_2023)
 
 ## Week 4
-7. 
+7. 14-Jan-2023: [Click here](week4_14_jan_2023)
+8. 15-Jan-2023: 
 

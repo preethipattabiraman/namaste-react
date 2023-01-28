@@ -1,0 +1,148 @@
+:root
+{
+    --primary-color : #006FBF;
+    --text-color: black;
+
+}
+
+.nr-fdd-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px var(--primary-color) solid;
+    margin-bottom: 10px;
+}
+
+.nr-fdd-logo-parent {
+    padding-left: 12%;
+}
+
+.nr-fdd-logo {
+    width: 100px;
+}
+
+.nr-fdd-title {
+    font-weight: bolder;
+}
+
+.nr-fdd-search {
+    align-items: center;
+    text-align: center;
+}
+
+.nr-fdd-search-text {
+    font-size: medium;
+    margin: 10px;
+}
+
+.nr-fdd-search-btn {
+    margin: 10px;
+    font-weight: bold;
+}
+
+.nr-fdd-navbar-list {
+    list-style-type: none;
+    margin : 10px;
+    display: flex;
+    text-align: right;
+}
+
+.nr-fdd-navbar-list > li {
+    padding: 10px;
+}
+
+.nr-fdd-link {
+    font-size: medium;
+    text-decoration: none;
+}
+
+.nr-fdd-link-active {
+    color: var(--primary-color);
+}
+
+.nr-fdd-link:hover {
+    color: var(--primary-color);
+}
+
+.nr-fdd-card-list, .nr-fdd-shimmer-card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.nr-fdd-card, .nr-fdd-shimmer-card {
+    margin: 10px;
+    background: #ddd;
+    width: 200px;
+    position: relative;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 10px;
+}
+
+.nr-fdd-card:hover {
+    box-shadow: 2px 2px 2px 1px var(--primary-color);
+}
+
+.nr-fdd-restaurant-image, .nr-fdd-shimmer-restaurant-image {
+    width: 100%;
+    height: 100px;
+    background: #bbb;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.nr-fdd-shimmer-restaurant-image {
+    width: 100%;
+    height: 40;
+    background: #bbb;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.nr-fdd-card > p {
+    width: 100%;
+    height: 20px;
+    background: #bbb;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.nr-fdd-shimmer-card > p {
+    width: 100%;
+    height: 20px;
+    background: #bbb;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+.nr-fdd-shimmer {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 50%;
+    height: 100%;
+  
+    background: linear-gradient(100deg,
+    rgba(255,255,255,0) 20%,
+    rgba(255,255,255,0.5) 50%,
+    rgba(255,255,255,0) 80%);
+  
+    animation: shimmer 2s infinite linear;
+}
+
+.nr-fdd-error-image {
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+@keyframes shimmer{
+    from {
+        transform: translateX(-200%);
+    }
+    to{
+        transform: translateX(200%);
+    }
+}
